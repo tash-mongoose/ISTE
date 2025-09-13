@@ -1,0 +1,56 @@
+#Header{
+    background-color: #bde2ec;
+
+    width: 100%;
+    height: 12%;
+    display: inline-flex;
+    position: fixed;  /*  */
+    top: 0%;
+    left: 0%;
+    z-index: 123;
+}
+
+#logo{
+  font-family: "Covered By Your Grace", cursive;  
+  font-weight: 400;
+  font-style: normal;
+  font-size: 55px;
+
+  position: relative;
+  top:0px;
+  left:45px;
+
+  color: black;
+}
+
+#Header-Items{
+  position: absolute;
+  left:200px;
+  margin:2%;
+}
+
+#Header-Items button{
+  height: 30px;
+  background-color: #E8DFCA;
+  color: BLACK;
+  border-radius: 10%;
+  font-weight: bolder;
+}
+
+#doesNothing{
+  display: flex;
+  gap: 40px;
+
+  position: absolute;
+  top:25px;
+  left:650px;
+
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+
+  font-weight: 400;
+}
+
+/* #Header-Items a{
+  color: chartreuse;
+} */

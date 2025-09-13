@@ -1,0 +1,93 @@
+#endingPage{
+    background-color: #CFAB9D;
+
+    position: absolute;
+    top:467%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+}
+
+#login{
+    width: 320px;
+}
+
+#Holder{
+
+    background-color: #ECEEDF;
+    position: absolute;
+    left:30%;
+    top: 25%;
+
+    display: flex;
+    width: 43%;
+    height: 60%;
+
+    border-radius: 5%;
+}
+
+#Holder img{
+    border-radius: 5% 0px 0px 5%;
+}
+
+#joinText{
+    position: relative;
+    width: 30%;
+    font-size: 30px;
+    font-weight: 600;
+    left: 38%;
+}
+
+label{
+    display: block;
+    font-size: larger;
+    font-weight: 900;
+}
+
+#Holder input{
+    position: relative;
+    left:2px;
+    width:300px;
+    height: 25px;
+}
+
+#Holder form{
+    padding: 3%;
+    padding-left: 0%;
+}
+
+#joinLol{
+    position: relative;
+    left:23px;
+    top:25px;
+}
+
+#credits{
+    position: absolute;
+    width: 30%;
+    left: 35px;
+    top:225px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#cc{
+    position: absolute;
+    right:10px;
+    bottom:5px;
+    font-size: larger;
+    font-weight: 900;
+}
+
+#moree{
+    position: absolute;
+    left:200px;
+    top:225px;
+}
+
+#moree ul{
+    font-size: 20px;
+}
+
+#credits ul{
+    font-size: 20px;
+}

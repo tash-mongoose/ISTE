@@ -1,0 +1,49 @@
+#domainsPage{
+    background-color: #D9C4B0;
+
+    position: absolute;
+    top:200%;
+    left: 0%;
+    height: 267%;
+    width: 100%;
+}
+
+#cContainer{
+    position: absolute;
+    left:100px;
+}
+
+.applyGrid1{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 200px 200px;
+    row-gap: 0;
+
+}
+
+.applyGrid2{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 200px 200px;
+    row-gap: 0;
+
+}
+
+#domainsPage img{
+    border-radius: 20%;
+}
+
+.textText{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    position: relative;
+    top:50px;
+    
+}
+
+#domainsPage h1{
+    position:relative;
+    left:35%;
+    padding-bottom: 40px;
+    width: 40%;
+}
